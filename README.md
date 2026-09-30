@@ -38,5 +38,5 @@ Data Security
 </ul>
 
 # How to Navigate/Interpret Application
-"<a href = "https://github.com/NateC2004/UIW_TECH_093026/blob/main/UIW_Tech_093026.pdf"> This will direct you to the NARAH website. </a>"
+"<a href = "https://narah.base44.app/"> This will direct you to the NARAH website. </a>"
 
