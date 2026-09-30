@@ -40,3 +40,5 @@ Data Security
 # How to Navigate/Interpret Application
 "<a href = "https://narah.base44.app/"> This will direct you to the NARAH website. </a>"
 
+# PowerPoint Presentation/Video
+"<a href = "https://canva.link/58x740c4f39ztj6"> Link to PowerPoint and Video Presentation. </a>"
